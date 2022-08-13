@@ -11,4 +11,16 @@ Popups are included to provide additional information about the earthquake when 
 * The map looks as:
 
 ![level1](Images/level1.png)
+
+
+## Level 2: Earthquakes Advanced Visualization
+I added a second data(layer) set on the map to illustrate the relationship between tectonic plates and seismic activity in this task. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
+
+In this task:
+
+I plotted a second data set on the map.
+
+Added a number of base maps to choose from and separated our two different data sets into overlays that can be turned on and off independently.
+
+Add layer controls to the map.
 ![level2](Images/Level2.png)
