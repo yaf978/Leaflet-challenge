@@ -10,5 +10,5 @@ Popups are included to provide additional information about the earthquake when 
 * legend added to give the context of the map data.
 * The map looks as:
 
-![level1]((Images/level1.png)
-![level2]((Images/Level2.png)
+![level1](Images/level1.png)
+![level2](Images/Level2.png)
