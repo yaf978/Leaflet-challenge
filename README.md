@@ -1,3 +1,3 @@
 # Leaflet-challenge
-![cover](images/cover.png)
+![cover](Images/cover.png)
 Visualizing Data with Leaflet  for Earthquake Visualization
